@@ -1,0 +1,1 @@
+Linux scripting allows us to record lengthy code and execute it line by line when required. Scripts are written in programming languages like Python, enabling automation of repetitive tasks. Topics covered included shell built-ins, variables, comments, and capitalization.
